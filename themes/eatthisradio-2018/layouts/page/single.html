@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+{{ partial "nav.html" . }}
+<div id="content" class="h-100 w-100 fl">
+  <!-- Content -->
+  <div class="cf sans-serif white lh-copy pa4 measure">
+    <h1>{{.Title}}</h1>
+    {{.Content}}
+  </div>
+</div>
+{{ partial "mixcloud-player" }}
+
+{{ partial "footer.html" }}
