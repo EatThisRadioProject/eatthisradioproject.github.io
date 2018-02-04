@@ -2,12 +2,12 @@
 draft: false
 type: post
 title: "Synth melodies"
-author: Bastiaan
-date: 2018-01-16
+author: Mechanizedmind
+date: 2018-01-15
 meta_img: /images/wave.gif
 img: /images/wave_full.gif
-size: 2
-mixcloud_url: https://www.mixcloud.com/eatthisradio/bastiaan-2/
+size: 1
+mixcloud_url: https://www.mixcloud.com/eatthisradio/bastiaan-1-synth-melodies/
 ---
 
 Mechanizedmind a.k.a. Bastiaan is a regular contributor to and co-founder of Eat This Radio.

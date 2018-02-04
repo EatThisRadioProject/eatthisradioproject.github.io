@@ -1,9 +1,9 @@
 ---
 draft: false
 type: post
-title: "Mechanizedmind #2"
-author: Bastiaan
-date: 2018-01-15
+title: "Hushed voices"
+author: Mechanizedmind
+date: 2018-01-17
 meta_img: /images/zen.jpg
 img: /images/zen_full.jpg
 size: 1

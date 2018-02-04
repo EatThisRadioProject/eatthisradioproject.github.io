@@ -11,7 +11,7 @@ LN
 Wouter van Veldhoven  
 
 __With many thanks to:__  
-Michaala Jung  
+Michaela Jung  
 Ingo  
 [Robhar][2]
 

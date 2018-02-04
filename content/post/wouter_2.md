@@ -3,10 +3,10 @@ draft: false
 type: post
 title: "The synthesized Häpna Books"
 author: "Wouter van Veldhoven"
-date: 2018-01-15
+date: 2018-01-16
 meta_img: /images/duchamp2.jpg
 img: /images/duchamp2_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/wouter-van-veldhoven-2-the-synthesized-hapna-books/
 ---
 
