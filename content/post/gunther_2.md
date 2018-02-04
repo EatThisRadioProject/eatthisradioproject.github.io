@@ -21,7 +21,7 @@ Günther continues with a second mix for Eat This Radio. This time flirting with
 - Swans - Real Love
 - Tropic Of Cancer - Be Brave
 - Lebanon Hanover Gallowdance
-- M Nilson- I hope You
+- M Nilson- I hope You Die
 - Karen Lawrence - I Won`t stop
 - The holydrug couple - counting sailboats
 - 13Arif Sag - Su Samsunun Evleri
