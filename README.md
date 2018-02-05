@@ -4,5 +4,5 @@ Eat This Radio is a platform for alternative music made by music lovers. We brin
 
 ### Local development
 ```
-git worktree add -B master public upstream/master
+git worktree add -B master public origin/master
 ```
