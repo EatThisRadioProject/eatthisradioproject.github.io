@@ -11,7 +11,7 @@ mixcloud_url: https://www.mixcloud.com/eatthisradio/ping-pong-1/
 ---
 
 **pingpong:** collaborative mixtapes. 
-each show features another opponent who's family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+each episode features another opponent who's family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
 
 episode #1: LN / Bastiaan
 
