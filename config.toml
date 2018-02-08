@@ -1,4 +1,4 @@
-baseURL = "http://eatthisradio.com/"
+baseURL = "https://eatthisradio.com/"
 languageCode = "en-us"
 title = "Eat This Radio"
 theme = "eatthisradio-2018"
