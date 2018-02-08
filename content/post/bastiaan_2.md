@@ -6,7 +6,7 @@ author: Mechanizedmind
 date: 2018-01-17
 meta_img: /images/canvas_klein.jpg
 img: /images/canvas_full.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/bastiaan-2/
 ---
 
