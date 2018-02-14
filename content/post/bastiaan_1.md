@@ -1,8 +1,8 @@
 ---
 draft: false
 type: post
-title: "Synth melodies"
-author: Mechanizedmind
+title: "synth melodies"
+author: mechanizedmind
 date: 2018-01-15
 meta_img: /images/wave.gif
 img: /images/wave_full.gif

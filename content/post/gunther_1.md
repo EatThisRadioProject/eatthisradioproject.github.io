@@ -1,7 +1,7 @@
 ---
 draft: false
 type: post
-title: "Günther #1"
+title: "günther #1"
 author: Günther von Schnepfenstrauss
 date: 2018-02-04
 meta_img: /images/birds3_klein.jpg

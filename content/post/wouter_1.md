@@ -1,7 +1,7 @@
 ---
 draft: false
 type: post
-title: "Things"
+title: "things"
 author: "Wouter van Veldhoven" 
 date: 2018-01-15
 meta_img: /images/wouter1.jpg

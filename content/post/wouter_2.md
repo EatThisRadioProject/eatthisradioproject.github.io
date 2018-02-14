@@ -1,7 +1,7 @@
 ---
 draft: false
 type: post
-title: "The synthesized Häpna Books"
+title: "the synthesized häpna books"
 author: "Wouter van Veldhoven"
 date: 2018-01-16
 meta_img: /images/duchamp2.jpg
