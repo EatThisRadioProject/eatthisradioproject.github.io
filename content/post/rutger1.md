@@ -7,7 +7,7 @@ date: 2018-02-14
 meta_img: /images/rutger1_klein.jpg
 img: /images/rutger1_full.jpg
 size: 2
-mixcloud_url: https://www.mixcloud.com/eatthisradio/morc-tapes-1/
+mixcloud_url: https://www.mixcloud.com/eatthisradio/delicate-structures/
 ---
 
 Ruther Zuyderveld has been active in the music scene for quite some time now under his monniker Machinefabriek. For eat this radio he compiled a mix ful of delicate sounds, almost complete silences. Pleae close your eyes, listen and take this musical journey with Rutger Zuyderveld.
