@@ -10,9 +10,9 @@ size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/morc-tapes-1/
 ---
 
-Wim_morc dives into lo-fi, chansons and anything that will kill your Spring Break mood. We are very pleased with this wonderful collection of songs. After finishing this mix Wim told us already he has new ideas for more. We can't wait for more honestly!
+Wim_morc dives into lo-fi, chansons and anything that will kill your Spring Break mood. We are very pleased with this wonderful collection of songs. After finishing this mix Wim told us already he has new ideas for more. We can't wait!
 
-Wim_morc runs the wonderful Morc tapes label. The label has produced a steady stream of beautiful releases that are all worth checking out. Beside being the head of Morc tapes he also makes music as Circle Borthers and the the lo-fi heroes Joe Speedboat!  
+Wim_morc runs the wonderful Morc tapes label. The label has produced a steady stream of beautiful releases that are all worth checking out. Beside that he also makes music as Circle Bros.  
 
 - Kant - ultra non plus
 - Supreme Dicks - Blue elephant
