@@ -6,7 +6,7 @@ author: Günther von Schnepfenstrauss
 date: 2018-01-16
 meta_img: /images/gunther2_klein.jpg
 img: /images/gunther2_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/g%C3%BCnther-2/
 ---
 
