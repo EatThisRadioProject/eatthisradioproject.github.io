@@ -15,3 +15,6 @@
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />
 {{ end }}
+
+<!-- Google Analytics -->
+{{ template "_internal/google_analytics.html" . }}

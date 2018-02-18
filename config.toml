@@ -10,6 +10,7 @@ author = "Bastiaan Verhage"
 pluralizelisttitles = false
 publishDir = "public"
 DefaultContentLanguage = "en"
+googleAnalytics = "UA-114322313-1"
 
 [params]
 dateform = "Jan 2, 2006"
