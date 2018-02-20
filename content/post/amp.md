@@ -10,7 +10,7 @@ size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/amp-r%C3%AAves-et-m%C3%A9moires/
 ---
 
-Amp have a long history in music. They formed in the 90's as part of the immensly creative Bristol scene along side bands such as Crescent and the Third Eye Foundation. We are delighted they joined Eat This Radio with a eclectic mashup compiled by Richard Amp. A mix full of memories of what was and dreams what can be. Over an hour of sonic explorations!
+Amp have a long history in music. They formed in the 90's as part of the immensely creative Bristol scene along side bands such as Flying Saucer Attack and the Third Eye Foundation. We are delighted they joined Eat This Radio with a eclectic mashup compiled by Richard Amp. A mix full of memories of what was and dreams what can be. Over an hour of sonic explorations!
 
 - Excerpt from Jeff Wayne’s War Of The Worlds
 - Programme - Une Vie (edit)
