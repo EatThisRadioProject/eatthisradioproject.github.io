@@ -6,7 +6,7 @@ author: mechanizedmind
 date: 2018-01-15
 meta_img: /images/wave.gif
 img: /images/wave_full.gif
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/bastiaan-1-synth-melodies/
 ---
 

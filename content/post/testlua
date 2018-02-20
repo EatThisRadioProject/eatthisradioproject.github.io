@@ -1,0 +1,45 @@
+answer = ""
+
+function datetimetotimestamp(date)
+  pattern = "(%d+)%-(%d+)%-(%d+)% (%d+)%:(%d+)"
+  year1, month1, day1, hour1, minute1 = date:match(pattern)
+  Timestamp = os.time({year = year1, month = month1, day = day1, hour=hour1, min=minute1 })
+  return Timestamp
+end
+
+function addToSet(set, key)
+    set[key] = true
+end
+
+function removeFromSet(set, key)
+    set[key] = nil
+end
+
+function setContains(set, key)
+    return set[key] ~= nil
+end
+
+answers = {}
+maxdate = ""
+exit_code = 0 
+
+answer = ""
+answer_alg == ""
+answer_ab == "Aanbod open"
+
+if #(logboek) > 0 then
+  for i,log in pairs(logboek) do
+    if (maxdate == "" or log.datum > maxdate) then
+      maxdate = log.datum
+      if log.log_type_alg == "Match voorgesteld" or log.log_type_alg == "Match gemaakt" then  
+        answer_alg = log.log_type_alg
+      end
+      if log.log_type_ab ~= "Wijzig beschikbaarheid aanbod" then  
+        answer_ab = log.log_type_ab
+      end
+    end
+  end
+end
+
+return answer
+    
