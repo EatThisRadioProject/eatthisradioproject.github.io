@@ -6,7 +6,7 @@ author: "Wouter van Veldhoven"
 date: 2018-02-22
 meta_img: /images/wouter4_klein.jpg
 img: /images/wouter4_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/wouter-van-veldhoven-1-things-2-hit-me-with-your-rhythm-brick/
 ---
 
