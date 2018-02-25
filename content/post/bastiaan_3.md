@@ -10,7 +10,7 @@ size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/do-while/
 ---
 
-Cut up, looped, endless music. Bastiaan dives into music based on loops from very subtle background loops to slowly shifting patterns that will hypnotise you. Best played on endless repeat!
+Cut up, looped, endless music. Bastiaan dives into music based on loops from very subtle background loops to slowly shifting patterns that will hypnotise you. Best played on endless repeat! (artwork by Katya Sannikova)
  
 - Es - A love cycle
 - Saule - Hola
