@@ -6,7 +6,7 @@ author: "Rutger Zuydervelt"
 date: 2018-02-14
 meta_img: /images/rutger1_klein.jpg
 img: /images/rutger1_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/delicate-structures/
 ---
 

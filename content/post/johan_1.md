@@ -6,7 +6,7 @@ author: "Johan G Winther"
 date: 2018-02-24
 meta_img: /images/johan_klein.jpg
 img: /images/johan_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/drawing-music-from-the-ether/
 ---
 

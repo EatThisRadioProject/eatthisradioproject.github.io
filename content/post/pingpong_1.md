@@ -6,7 +6,7 @@ author: LN / Bastiaan
 date: 2018-02-01
 meta_img: /images/pingpong.png
 img: /images/pingpong_full.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/ping-pong-1/ 
 ---
 
