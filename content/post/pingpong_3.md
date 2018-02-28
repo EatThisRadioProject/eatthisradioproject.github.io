@@ -1,7 +1,7 @@
 ---
 draft: false
 type: post
-title: pingpong #3 
+title: "pingpong #3" 
 author: LN / Dan4Evers
 date: 2018-02-28
 meta_img: /images/pingpongklein.png
