@@ -7,7 +7,7 @@ date: 2018-02-28
 meta_img: /images/wouter5_klein.jpg
 img: /images/wouter5_full.jpg
 size: 2
-mixcloud_url: https://www.mixcloud.com/eatthisradio/wouter_5
+mixcloud_url: https://www.mixcloud.com/eatthisradio/songs-things-and-other-things/
 ---
 
 A collection of songs, things and other things
