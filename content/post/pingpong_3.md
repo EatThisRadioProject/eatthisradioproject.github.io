@@ -6,7 +6,7 @@ author: LN / Dan4Evers
 date: 2018-02-28
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-3-ln-dan4evers/
 ---
 

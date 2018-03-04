@@ -6,7 +6,7 @@ author: "wim_morc"
 date: 2018-02-13
 meta_img: /images/wim1_klein.jpg
 img: /images/wim1_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/morc-tapes-1/
 ---
 

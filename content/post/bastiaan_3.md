@@ -6,7 +6,7 @@ author: mechanizedmind
 date: 2018-02-25
 meta_img: /images/bastiaan_3_klein.jpg
 img: /images/bastiaan_3_full.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/do-while/
 ---
 
