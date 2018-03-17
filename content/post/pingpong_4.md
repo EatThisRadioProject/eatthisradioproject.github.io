@@ -15,17 +15,17 @@ each episode features another opponent who's family, friend or hero (or all). al
 
 episode #4: LN / popgunpirates
 
-- **golden diskó ship** wake/sleep [LN]
-- **raccoo-oo-oon** visage of the fox [pp]
-- **evangelista** in animal tongue [LN]
-- **coh (feat. little annie)** curious yellow [pp]
-- **the books** if not now, whenever [LN]
-- **balmorhea** bowsprit [pp]
-- **pretend** some how [LN]
-- **volcano!** fire fire [pp]
-- **shannon wright** with closed eyes [LN]
-- **pj harvey** snake [pp]
-- **juana molina** lentísimo halo [LN]
+- **golden diskó ship** - wake/sleep [LN]
+- **raccoo-oo-oon** - visage of the fox [pp]
+- **evangelista** - in animal tongue [LN]
+- **coh (feat. little annie)** - curious yellow [pp]
+- **the books** - if not now, whenever [LN]
+- **balmorhea** - bowsprit [pp]
+- **pretend** - some how [LN]
+- **volcano!** - fire fire [pp]
+- **shannon wright** - with closed eyes [LN]
+- **pj harvey** - snake [pp]
+- **juana molina** - lentísimo halo [LN]
 
 pingponged nov-dec 2017. 
 mixed by LN.
