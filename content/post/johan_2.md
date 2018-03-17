@@ -6,7 +6,7 @@ author: Johan G Winther
 date: 2018-03-11
 meta_img: /images/johan_2_small.jpg
 img: /images/johan_2_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/through-sleet-and-snow/
 ---
 

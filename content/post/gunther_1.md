@@ -6,7 +6,7 @@ author: Günther von Schnepfenstrauss
 date: 2018-02-04
 meta_img: /images/birds3_klein.jpg
 img: /images/birds3_full.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/g%C3%BCnther-1/
 ---
 

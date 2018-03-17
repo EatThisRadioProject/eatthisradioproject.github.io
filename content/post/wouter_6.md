@@ -6,7 +6,7 @@ author: Wouter van Veldhoven
 date: 2018-03-10
 meta_img: /images/wouter_6.jpg
 img: /images/wouter_6.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/wouter-van-veldhoven-the-lower-frequency-spectrum/
 ---
 Wouter explores the depths of sub bass and low frquency sounds. Dive in and enjoy! 

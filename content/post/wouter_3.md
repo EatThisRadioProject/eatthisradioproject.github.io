@@ -6,7 +6,7 @@ author: "Wouter van Veldhoven"
 date: 2018-02-07
 meta_img: /images/wouter_3_klein.jpg
 img: /images/wouter_3_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/things-2-a-collection-of-pulses-1953-2017/
 ---
 
