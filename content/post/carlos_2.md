@@ -6,7 +6,7 @@ author: Carlos Kok
 date: 2018-03-17
 meta_img: /images/carlos_klein.png
 img: /images/carlos_full.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/eat-this-records-2/
 ---
 

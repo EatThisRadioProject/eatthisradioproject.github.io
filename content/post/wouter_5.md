@@ -6,7 +6,7 @@ author: Wouter van Veldhoven
 date: 2018-02-28
 meta_img: /images/wouter5_klein.jpg
 img: /images/wouter5_full.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/songs-things-and-other-things/
 ---
 
