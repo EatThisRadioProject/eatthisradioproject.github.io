@@ -6,7 +6,7 @@ author: "Boduf Songs"
 date: 2018-03-25
 meta_img: /images/boduf_3.jpg
 img: /images/boduf_3.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/songs-for-when-youre-snowbound-and-supplies-are-getting-low-and-the-only-other-person/
 ---
 
