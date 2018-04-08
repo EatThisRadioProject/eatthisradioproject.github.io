@@ -6,7 +6,7 @@ author: Jessica Bailiff
 date: 2018-04-01
 meta_img: /images/JB_1.jpg
 img: /images/JB_1.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/heart-is-a-bird/
 ---
 
