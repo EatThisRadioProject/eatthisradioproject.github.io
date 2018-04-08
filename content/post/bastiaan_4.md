@@ -1,7 +1,7 @@
 ---
 draft: false
 type: post
-title: soumi
+title: suomi
 author: "Mechanizedmind"
 date: 2018-04-08
 meta_img: /images/bastiaan2.jpg
