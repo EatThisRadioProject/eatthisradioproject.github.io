@@ -6,7 +6,7 @@ author: "wim_morc"
 date: 2018-04-08
 meta_img: /images/wim2_full.jpg
 img: /images/wim2_full.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/15-for-15/
 ---
 
