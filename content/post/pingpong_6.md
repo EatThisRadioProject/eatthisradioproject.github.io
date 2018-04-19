@@ -1,7 +1,7 @@
 ---
 draft: false
 type: post
-title: pingpong #6
+title: "pingpong #6"
 author: "Dan's with E / LN"
 date: 2018-04-17
 meta_img: /images/pingpongklein.png
