@@ -7,7 +7,7 @@ date: 2018-05-01
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
 size: 2
-mixcloud_url: https://www.mixcloud.com/eatthisradio/ping-pong-7-ln-nil/ 
+mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-7-ln-nil/
 ---
 
 **pingpong:** collaborative mixtapes. 
