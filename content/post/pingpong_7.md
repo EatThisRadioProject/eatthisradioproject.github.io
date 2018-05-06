@@ -6,7 +6,7 @@ author: "LN / Nil"
 date: 2018-05-01
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-7-ln-nil/
 ---
 
