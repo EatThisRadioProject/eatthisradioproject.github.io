@@ -4,9 +4,9 @@ type: post
 title: "everyday arithmetic"
 author: "Richard Scott"
 date: 2018-05-02
-meta_img: /images/everyday_arithmetic.jpg
-img: /images/everyday_arithmetic_small.png
-size: 2
+meta_img: /images/everyday_arithmetic_small.png
+img: /images/everyday_arithmetic.jpg
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/richard-scott-everyday-arithmetic/
 ---
 
@@ -16,5 +16,3 @@ For this very special edition Richard Scott kindly provided us with a series of 
 Richard on these recordings:
 
 *“I normally spend months/years considering, composing, editing, and mixing my solo compositions, so this was like going on holiday: no second takes, no material rejected, no subsequent editing or mixing, it is as completely raw as if it came from the instrument.”*
-
-

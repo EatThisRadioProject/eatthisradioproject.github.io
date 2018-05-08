@@ -6,7 +6,7 @@ author: "Matt Elliott"
 date: 2018-04-17
 meta_img: /images/matt_full.jpg
 img: /images/matt_full.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/matt-elliot-heart-and-soul/
 ---
 

@@ -6,7 +6,7 @@ author: Wouter van Veldhoven
 date: 2018-04-23
 meta_img: /images/dan_miller.png
 img: /images/dan_miller.png
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/the-unsync/
 ---
 
