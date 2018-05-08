@@ -4,8 +4,8 @@ type: post
 title: "pingpong #4" 
 author: LN / popgunpirates
 date: 2018-03-15
-meta_img: /images/pingpongklein.png
-img: /images/pingpong.png
+meta_img: /images/pingpong.png
+img: /images/pingpong_full.png
 size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-4-ln-popgunpirates/
 ---

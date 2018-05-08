@@ -4,8 +4,8 @@ type: post
 title: "pingpong #2"
 author: LN / Marion
 date: 2018-02-16
-meta_img: /images/pingpongklein.png
-img: /images/pingpong.png
+meta_img: /images/pingpong.png
+img: /images/pingpong_full.png
 size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-2-ln-marion/
 ---

@@ -4,8 +4,8 @@ type: post
 title: "pingpong #7" 
 author: "LN / Nil"
 date: 2018-05-01
-meta_img: /images/pingpongklein.png
-img: /images/pingpong.png
+meta_img: /images/pingpong.png
+img: /images/pingpong_full.png
 size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-7-ln-nil/
 ---

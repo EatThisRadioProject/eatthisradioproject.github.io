@@ -4,8 +4,8 @@ type: post
 title: "pingpong #6"
 author: "Dan's with E / LN"
 date: 2018-04-17
-meta_img: /images/pingpongklein.png
-img: /images/pingpong.png
+meta_img: /images/pingpong.png
+img: /images/pingpong_full.png
 size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-6-dans-with-e-ln/
 ---

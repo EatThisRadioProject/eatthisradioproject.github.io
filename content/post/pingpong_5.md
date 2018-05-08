@@ -4,8 +4,8 @@ type: post
 title: "pingpong #5"
 author: LN / Ulli
 date: 2018-03-31
-meta_img: /images/pingpongklein.png
-img: /images/pingpong.png
+meta_img: /images/pingpong.png
+img: /images/pingpong_full.png
 size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-5-ln-ulli/ 
 ---

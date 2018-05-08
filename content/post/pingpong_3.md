@@ -4,8 +4,8 @@ type: post
 title: "pingpong #3" 
 author: LN / Dan4Evers
 date: 2018-02-28
-meta_img: /images/pingpongklein.png
-img: /images/pingpong.png
+meta_img: /images/pingpong.png
+img: /images/pingpong_full.png
 size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-3-ln-dan4evers/
 ---
