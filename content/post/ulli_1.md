@@ -11,7 +11,7 @@ size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/ui-unsettling-news/
 ---
 
-When all the songs that you listen to end up having doomsday-like dark titles, who is to blame. Unsettling news for sure. You could not care less though and do not even begin pointing any fingers. ¯''\''_(ツ)_/¯ says it all, amirite?
+When all the songs that you listen to end up having doomsday-like dark titles, who is to blame. Unsettling news for sure. You could not care less though and do not even begin pointing any fingers. ¯`\``_(ツ)`_/¯ says it all, amirite?
 
 Tracklist:
 
