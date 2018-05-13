@@ -6,7 +6,7 @@ author: Wouter van Veldhoven
 date: 2018-05-08
 meta_img: /images/45.jpg
 img: /images/45.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/perpetual-ups-and-downs/
 ---
 
