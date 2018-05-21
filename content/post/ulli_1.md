@@ -7,7 +7,7 @@ author: ui
 date: 2018-05-13
 meta_img: /images/ui-unsettling_news.jpg
 img: /images/ui-unsettling_news.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/ui-unsettling-news/
 ---
 

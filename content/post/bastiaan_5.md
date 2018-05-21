@@ -6,7 +6,7 @@ author: "Mechanizedmind"
 date: 2018-05-06
 meta_img: /images/bastiaan_5.png
 img: /images/bastiaan_5.png
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/
 ---
 

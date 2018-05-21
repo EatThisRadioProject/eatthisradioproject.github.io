@@ -6,7 +6,7 @@ author: LN / Roos
 date: 2018-05-13
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-8-ln-roos/
 ---
 
