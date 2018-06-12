@@ -6,7 +6,7 @@ author: "Eelco Bosman"
 date: 2018-05-31
 meta_img: /images/eelco_1.jpg
 img: /images/eelco_1.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/post-punk-mix-to-play-while-cleaning-the-house/
 ---
 

@@ -6,7 +6,7 @@ author: Mick Turner
 date: 2018-05-21
 meta_img: /images/mick_1.jpg
 img: /images/mick_1.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/mick-turner-thoughts/
 ---
 
