@@ -6,7 +6,7 @@ author: "Johan G Winther"
 date: 2018-06-12
 meta_img: /images/johan_4.jpg
 img: /images/johan_4.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/john-g-winther-flesh-from-bone/
 ---
 

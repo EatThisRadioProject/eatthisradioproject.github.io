@@ -6,7 +6,7 @@ author: "Jos Smolders"
 date: 2018-06-12
 meta_img: /images/jos_smolders_1.jpg
 img: /images/jos_smolders_1.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/jos-smolders-subassembly/
 ---
 
