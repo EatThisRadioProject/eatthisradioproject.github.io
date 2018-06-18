@@ -2,13 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Eat This Radio</title>
-    <link>http://eatthisradio.com/index.xml</link>
+    <link>http://eatthisradio.com/</link>
     <description>Recent content on Eat This Radio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Eat This Radio 2018</copyright>
     <lastBuildDate>Fri, 15 Jun 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://eatthisradio.com/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://eatthisradio.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Headnod universe</title>
@@ -16,22 +17,8 @@
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/carlos_3/</guid>
-      <description>&lt;p&gt;After he focussed on Eat This Records in his first two amazing mixes, Carlos returns with a new mix ful of minimal electronic music. The result is stunning! Put on your headphones, close your eyes and let Carlos take you away into a slowly evolving electronic universe.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;COH - 132&lt;/li&gt;
-&lt;li&gt;Frank Brettschneider - Cycle Circle&lt;/li&gt;
-&lt;li&gt;Machinefabriek - Kruimeldief (Alva Noto rmx)&lt;/li&gt;
-&lt;li&gt;Mokira - Oscilations and Tremolo&lt;/li&gt;
-&lt;li&gt;Primitive World - Fractions of the Absolute&lt;/li&gt;
-&lt;li&gt;Schmerz - You See&lt;/li&gt;
-&lt;li&gt;Greie Gut Fraktion - Drilling an Ocean&lt;/li&gt;
-&lt;li&gt;Huerco S - Anagramme of my love&lt;/li&gt;
-&lt;li&gt;Goem - Dertig CM Twee&lt;/li&gt;
-&lt;li&gt;snd - Makesnd casette 10&lt;/li&gt;
-&lt;li&gt;Oval - Tonregie&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>After he focussed on Eat This Records in his first two amazing mixes, Carlos returns with a new mix ful of minimal electronic music. The result is stunning! Put on your headphones, close your eyes and let Carlos take you away into a slowly evolving electronic universe.
+ COH - 132 Frank Brettschneider - Cycle Circle Machinefabriek - Kruimeldief (Alva Noto rmx) Mokira - Oscilations and Tremolo Primitive World - Fractions of the Absolute Schmerz - You See Greie Gut Fraktion - Drilling an Ocean Huerco S - Anagramme of my love Goem - Dertig CM Twee snd - Makesnd casette 10 Oval - Tonregie  </description>
     </item>
     
     <item>
@@ -40,28 +27,9 @@
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/pingpong_10/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;pingpong:&lt;/strong&gt; collaborative mixtapes.
-each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.&lt;/p&gt;
-
-&lt;p&gt;episode #10: Wouter van Veldhoven / LN&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;delia derbyshire&lt;/strong&gt; ziwzih ziwzih oo - oo - oo [WvV]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;harco pront&lt;/strong&gt; lament [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;faust&lt;/strong&gt; läuft&amp;hellip; heißt das es läuft oder es kommt bald&amp;hellip; läuft [WvV]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;the books&lt;/strong&gt; liternite [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;oval&lt;/strong&gt; hallo draussen [WvV]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;minitchêv&lt;/strong&gt; new shoes [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;aaron dilloway&lt;/strong&gt; labyrinths &amp;amp; jokes [WvV]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;musica da cucina&lt;/strong&gt; &amp;hellip; e sorridi quando cucini [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;rudy trouvé&lt;/strong&gt; sometimes i hear voices [WvV]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;folk implosion&lt;/strong&gt; why do they hide [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;karl blau &amp;amp; geneviève castrée&lt;/strong&gt; cryptozoologie [WvV]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;pingponged feb 2018 - apr 2018.
-mixed by LN.&lt;/p&gt;
-</description>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #10: Wouter van Veldhoven / LN
+ delia derbyshire ziwzih ziwzih oo - oo - oo [WvV] harco pront lament [LN] faust läuft&amp;hellip; heißt das es läuft oder es kommt bald&amp;hellip; läuft [WvV] the books liternite [LN] oval hallo draussen [WvV] minitchêv new shoes [LN] aaron dilloway labyrinths &amp;amp; jokes [WvV] musica da cucina &amp;hellip; e sorridi quando cucini [LN] rudy trouvé sometimes i hear voices [WvV] folk implosion why do they hide [LN] karl blau &amp;amp; geneviève castrée cryptozoologie [WvV]  pingponged feb 2018 - apr 2018.</description>
     </item>
     
     <item>
@@ -70,20 +38,8 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/johan_3/</guid>
-      <description>&lt;p&gt;Johan joins Eat This Radio for a third mix! This time diving deep into black metal. It&amp;rsquo;s loud, fast and surpringly ambient. A mix of  over 80 minutes of darkness and doom! that will keep you mesmerized!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Wylve - Spell cast of re-harnessing spirit&lt;/li&gt;
-&lt;li&gt;Tardigrada - Erschöpft&lt;/li&gt;
-&lt;li&gt;Sahrana - There was never us&lt;/li&gt;
-&lt;li&gt;Fauna - The hunger&lt;/li&gt;
-&lt;li&gt;Paysage D’Hiver - Welt aus Eis&lt;/li&gt;
-&lt;li&gt;Lluvia - Tormenta del cielo sobre un campo de batalla&lt;/li&gt;
-&lt;li&gt;Arizmenda - Those beaten paths of confusion&lt;/li&gt;
-&lt;li&gt;Regnmoln - Kött och blod&lt;/li&gt;
-&lt;li&gt;Fell Voices - Flesh from bone&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Johan joins Eat This Radio for a third mix! This time diving deep into black metal. It&amp;rsquo;s loud, fast and surpringly ambient. A mix of over 80 minutes of darkness and doom! that will keep you mesmerized!
+ Wylve - Spell cast of re-harnessing spirit Tardigrada - Erschöpft Sahrana - There was never us Fauna - The hunger Paysage D’Hiver - Welt aus Eis Lluvia - Tormenta del cielo sobre un campo de batalla Arizmenda - Those beaten paths of confusion Regnmoln - Kött och blod Fell Voices - Flesh from bone  </description>
     </item>
     
     <item>
@@ -92,19 +48,7 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Tue, 12 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/jos_smolders_1/</guid>
-      <description>&lt;p&gt;We are delighted to present you a mix by Jos Smolders. Jos Smolders is one of the founding fathers of the experimental electronic music scene in the Netherlands. He has had a huge impact in the Netherlands, and far beyond that. Beside his work as a musician he is well known for his excellent mastering skills at his EarLabs Studio. By all means a legend!
-For Eat This Radio he took 7 sketches from his studio work and put them in one big, one hour mix!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Subassembly_01&lt;/li&gt;
-&lt;li&gt;Subassembly_02&lt;/li&gt;
-&lt;li&gt;Subassembly_03&lt;/li&gt;
-&lt;li&gt;Subassembly_04&lt;/li&gt;
-&lt;li&gt;Subassembly_05&lt;/li&gt;
-&lt;li&gt;Subassembly_06&lt;/li&gt;
-&lt;li&gt;Subassembly_07&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>We are delighted to present you a mix by Jos Smolders. Jos Smolders is one of the founding fathers of the experimental electronic music scene in the Netherlands. He has had a huge impact in the Netherlands, and far beyond that. Beside his work as a musician he is well known for his excellent mastering skills at his EarLabs Studio. By all means a legend! For Eat This Radio he took 7 sketches from his studio work and put them in one big, one hour mix!</description>
     </item>
     
     <item>
@@ -113,28 +57,9 @@ For Eat This Radio he took 7 sketches from his studio work and put them in one b
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/pingpong_9/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;pingpong:&lt;/strong&gt; collaborative mixtapes.
-each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.&lt;/p&gt;
-
-&lt;p&gt;episode #9: handprinted stuff / LN&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;father john misty&lt;/strong&gt; - hollywood forever cemetery sings [HPS]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;kurt vile&lt;/strong&gt; - wild imagination [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;the modern lovers&lt;/strong&gt; - pablo picasso [HPS]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;the velvet underground&lt;/strong&gt; - some kinda love [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;protomartyr&lt;/strong&gt; - half sister [HPS]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;arab strap&lt;/strong&gt; - deeper [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;thee oh sees&lt;/strong&gt; - sticky hulks [HPS]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;built to spill&lt;/strong&gt; - dystopian dream girl [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;shellac&lt;/strong&gt; - ghosts [HPS]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pj harvey&lt;/strong&gt; - legs [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;the black angels&lt;/strong&gt; - evil things [HPS]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;pingponged mar - may 2018.
-mixed by LN.&lt;/p&gt;
-</description>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #9: handprinted stuff / LN
+ father john misty - hollywood forever cemetery sings [HPS] kurt vile - wild imagination [LN] the modern lovers - pablo picasso [HPS] the velvet underground - some kinda love [LN] protomartyr - half sister [HPS] arab strap - deeper [LN] thee oh sees - sticky hulks [HPS] built to spill - dystopian dream girl [LN] shellac - ghosts [HPS] pj harvey - legs [LN] the black angels - evil things [HPS]  pingponged mar - may 2018.</description>
     </item>
     
     <item>
@@ -143,31 +68,8 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/eelco_1/</guid>
-      <description>&lt;p&gt;Our friend Eelco joins Eat This Radio with a lovely mix, a collection of post-punk (and one proto-punk) hits, veering dangerously close to goth territory a number of times.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Public Image Ltd. - Banging the door.&lt;/li&gt;
-&lt;li&gt;Ike Yard - Motiv.&lt;/li&gt;
-&lt;li&gt;The Sound - Missiles.&lt;/li&gt;
-&lt;li&gt;Red Lorry Yellow Lorry - This today&lt;/li&gt;
-&lt;li&gt;The Gun Club - Mother of earth.&lt;/li&gt;
-&lt;li&gt;Cocteau Twins - Wax and wane.&lt;/li&gt;
-&lt;li&gt;Wire - Reuters.&lt;/li&gt;
-&lt;li&gt;Gang Of Four - Why theory?&lt;/li&gt;
-&lt;li&gt;Magazine - The light pours out of me.&lt;/li&gt;
-&lt;li&gt;Swell Maps - The helicopter spies.&lt;/li&gt;
-&lt;li&gt;Modern English - 16 days.&lt;/li&gt;
-&lt;li&gt;Dead Can Dance - Fortune.&lt;/li&gt;
-&lt;li&gt;Joy Division - Shadowplay.&lt;/li&gt;
-&lt;li&gt;Modern Lovers - Roadrunner.&lt;/li&gt;
-&lt;li&gt;Television Personalities - Part time punks.&lt;/li&gt;
-&lt;li&gt;Siouxsie And The Banshees - Halloween.&lt;/li&gt;
-&lt;li&gt;Killing Joke - The wait.&lt;/li&gt;
-&lt;li&gt;The Wipers - So young.&lt;/li&gt;
-&lt;li&gt;The Fall - Totally wired.&lt;/li&gt;
-&lt;li&gt;Theatre Of Hate - Propaganda.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Our friend Eelco joins Eat This Radio with a lovely mix, a collection of post-punk (and one proto-punk) hits, veering dangerously close to goth territory a number of times.
+ Public Image Ltd. - Banging the door. Ike Yard - Motiv. The Sound - Missiles. Red Lorry Yellow Lorry - This today The Gun Club - Mother of earth. Cocteau Twins - Wax and wane. Wire - Reuters. Gang Of Four - Why theory?</description>
     </item>
     
     <item>
@@ -176,26 +78,8 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/ignatz_1/</guid>
-      <description>&lt;p&gt;Please welcome the amazing Ignatz to Eat This Radio! He delivers a mix that is intense and deep. Sometimes sad, sometimes sweet. Join in and dance with the demons!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Booker T. &amp;amp; The M.G.s - Let’s Go Get Stoned&lt;/li&gt;
-&lt;li&gt;Wayne - No Reason To Cry&lt;/li&gt;
-&lt;li&gt;Daniel Bachman - Scrumpy&lt;/li&gt;
-&lt;li&gt;The Velvet Underground - Some Kinda Love&lt;/li&gt;
-&lt;li&gt;The Index - Rainy, Starless Nights&lt;/li&gt;
-&lt;li&gt;Cultural Amnesia - The Wildlife Of The Tranquil Vale&lt;/li&gt;
-&lt;li&gt;Ichman Bracey - Woman Woman Blues&lt;/li&gt;
-&lt;li&gt;The Jacks - Marianne&lt;/li&gt;
-&lt;li&gt;Fred Neil - The Dolphins&lt;/li&gt;
-&lt;li&gt;John Fahey - Sunflower River Blues&lt;/li&gt;
-&lt;li&gt;Willie Dunn - Son of the Sun&lt;/li&gt;
-&lt;li&gt;Michael Hurley - Tea Song&lt;/li&gt;
-&lt;li&gt;Joseph Spence - Bimini Gal&lt;/li&gt;
-&lt;li&gt;Zabelle Panosian - Groung&lt;/li&gt;
-&lt;li&gt;Jackson C. Frank - I Want To Be Alone (Dialogue)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Please welcome the amazing Ignatz to Eat This Radio! He delivers a mix that is intense and deep. Sometimes sad, sometimes sweet. Join in and dance with the demons!
+ Booker T. &amp;amp; The M.G.s - Let’s Go Get Stoned Wayne - No Reason To Cry Daniel Bachman - Scrumpy The Velvet Underground - Some Kinda Love The Index - Rainy, Starless Nights Cultural Amnesia - The Wildlife Of The Tranquil Vale Ichman Bracey - Woman Woman Blues The Jacks - Marianne Fred Neil - The Dolphins John Fahey - Sunflower River Blues Willie Dunn - Son of the Sun Michael Hurley - Tea Song Joseph Spence - Bimini Gal Zabelle Panosian - Groung Jackson C.</description>
     </item>
     
     <item>
@@ -204,24 +88,8 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Mon, 21 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/mick_1/</guid>
-      <description>&lt;p&gt;Mick Turner has been a musical hero of everyone at the Eat This Radio headquarters. We are deligthed he came up with this wonderful mix full of thought provoking songs. We recommend everyone to listen to all the amazing music Mick has been making!&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Donovan - Teen angel&lt;/li&gt;
-&lt;li&gt;Donovan - Hampstead incident&lt;/li&gt;
-&lt;li&gt;Horace Tapscott - Peyote Song No. III&lt;/li&gt;
-&lt;li&gt;Bonnie &amp;ldquo;Prince&amp;rdquo; Billy &amp;amp; Marquis de Tren - Solemn 28&lt;/li&gt;
-&lt;li&gt;Captain Beefheart - Ashtray Heart (Saturday Night Live)&lt;/li&gt;
-&lt;li&gt;Russell Morris - Sweet, Sweet Love&lt;/li&gt;
-&lt;li&gt;Caroline No - Little snake&lt;/li&gt;
-&lt;li&gt;Frank Evans - The Bistro Kid&lt;/li&gt;
-&lt;li&gt;Cat Power - Nude As The News&lt;/li&gt;
-&lt;li&gt;Palace Music (Wild Oldham) - Marriage&lt;/li&gt;
-&lt;li&gt;Palace - You Have Cum In Your Hair And Your Dick Is Hanging Out&lt;/li&gt;
-&lt;li&gt;Smog - Say Valley Maker&lt;/li&gt;
-&lt;li&gt;Mick Turner - The last song&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>Mick Turner has been a musical hero of everyone at the Eat This Radio headquarters. We are deligthed he came up with this wonderful mix full of thought provoking songs. We recommend everyone to listen to all the amazing music Mick has been making!
+ Donovan - Teen angel Donovan - Hampstead incident Horace Tapscott - Peyote Song No. III Bonnie &amp;ldquo;Prince&amp;rdquo; Billy &amp;amp; Marquis de Tren - Solemn 28 Captain Beefheart - Ashtray Heart (Saturday Night Live) Russell Morris - Sweet, Sweet Love Caroline No - Little snake Frank Evans - The Bistro Kid Cat Power - Nude As The News Palace Music (Wild Oldham) - Marriage Palace - You Have Cum In Your Hair And Your Dick Is Hanging Out Smog - Say Valley Maker Mick Turner - The last song  </description>
     </item>
     
     <item>
@@ -230,28 +98,9 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/pingpong_8/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;pingpong:&lt;/strong&gt; collaborative mixtapes.
-each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.&lt;/p&gt;
-
-&lt;p&gt;episode #8: LN / Roos&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;cate le bon&lt;/strong&gt; mug museum [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;tortoise&lt;/strong&gt; glass museum [R]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;tiny ruins&lt;/strong&gt; me at the museum, you at the wintergardens [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;broken social scene&lt;/strong&gt; art house director [R]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;of montreal&lt;/strong&gt; gallery piece [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;rufus wainwright&lt;/strong&gt; the art teacher [R]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;damien jurado&lt;/strong&gt; museum of flight [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;mop mop (feat. anthony joseph)&lt;/strong&gt; heritage [R]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;jeffrey + jack lewis&lt;/strong&gt; art land [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;david bowie&lt;/strong&gt; art decade [R]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;sandro perri&lt;/strong&gt; city of museums [LN]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;pingponged oct 2017 - apr 2018.
-mixed by LN.&lt;/p&gt;
-</description>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #8: LN / Roos
+ cate le bon mug museum [LN] tortoise glass museum [R] tiny ruins me at the museum, you at the wintergardens [LN] broken social scene art house director [R] of montreal gallery piece [LN] rufus wainwright the art teacher [R] damien jurado museum of flight [LN] mop mop (feat.</description>
     </item>
     
     <item>
@@ -260,28 +109,9 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Sun, 13 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/ulli_1/</guid>
-      <description>&lt;p&gt;When all the songs that you listen to end up having doomsday-like dark titles, who is to blame. Unsettling news for sure. You could not care less though and do not even begin pointing any fingers. ¯&lt;code&gt;\&lt;/code&gt;&lt;code&gt;_(ツ)&lt;/code&gt;_/¯ says it all, amirite?&lt;/p&gt;
-
-&lt;p&gt;Tracklist:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pere Ubu - Prison of the Sense&lt;/li&gt;
-&lt;li&gt;Childish Gambino - This is America&lt;/li&gt;
-&lt;li&gt;Steve Miller Band - Fly like an Eagle&lt;/li&gt;
-&lt;li&gt;Vicki Bennett - We are not Amused&lt;/li&gt;
-&lt;li&gt;Brian Eno - Third Uncle&lt;/li&gt;
-&lt;li&gt;Kindness - That&amp;rsquo;s Alright (Live&lt;/li&gt;
-&lt;li&gt;SOPHIE - LEMONADE&lt;/li&gt;
-&lt;li&gt;Screaming Jay Hawkins - Frenzy&lt;/li&gt;
-&lt;li&gt;Tuatara - Dark State of Mind&lt;/li&gt;
-&lt;li&gt;Nadine Shah - Out the Way&lt;/li&gt;
-&lt;li&gt;Def Sound and Brook D`leau - White Rice&lt;/li&gt;
-&lt;li&gt;10cc - Worst Band in the World&lt;/li&gt;
-&lt;li&gt;Negativland - I am God&lt;/li&gt;
-&lt;li&gt;Gil Scott-Heron - Home is Where the Hatred is&lt;/li&gt;
-&lt;li&gt;Pere Ubu - Golden Surf II&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>When all the songs that you listen to end up having doomsday-like dark titles, who is to blame. Unsettling news for sure. You could not care less though and do not even begin pointing any fingers. ¯\_(ツ)_/¯ says it all, amirite?
+Tracklist:
+ Pere Ubu - Prison of the Sense Childish Gambino - This is America Steve Miller Band - Fly like an Eagle Vicki Bennett - We are not Amused Brian Eno - Third Uncle Kindness - That&amp;rsquo;s Alright (Live SOPHIE - LEMONADE Screaming Jay Hawkins - Frenzy Tuatara - Dark State of Mind Nadine Shah - Out the Way Def Sound and Brook D`leau - White Rice 10cc - Worst Band in the World Negativland - I am God Gil Scott-Heron - Home is Where the Hatred is Pere Ubu - Golden Surf II  </description>
     </item>
     
     <item>
@@ -290,26 +120,8 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Tue, 08 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/wouter_8/</guid>
-      <description>&lt;p&gt;A collection of disorienting audio paradoxes including Shepard tones, endless transpositions and Risset rhythms.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Diana Deutsch - introduction&lt;/li&gt;
-&lt;li&gt;J.S. Bach - Canones diversi canon 5 a 2 (canon circularis per tonos)&lt;/li&gt;
-&lt;li&gt;Georg Friedrich Haas - In vain, for 24 instruments&lt;/li&gt;
-&lt;li&gt;Dick Hyman - The liquidator&lt;/li&gt;
-&lt;li&gt;Machinefabriek - Stroomtoon 1&lt;/li&gt;
-&lt;li&gt;Gyorgy Ligeti - Études pour piano (Deuxième livre) VII. L&amp;rsquo;escalier du diable&lt;/li&gt;
-&lt;li&gt;unknown - untitled 00:27:01&lt;/li&gt;
-&lt;li&gt;Gyorgy Ligeti - Violin Concerto -III- Intermezzo. Presto fluido&lt;/li&gt;
-&lt;li&gt;Diana Deutsch - Sometimes behave so strangely&lt;/li&gt;
-&lt;li&gt;Jean-Claude Risset - Sud II - Call - a bell animated by the sea&lt;/li&gt;
-&lt;li&gt;the fancy machines - Ritardando&lt;/li&gt;
-&lt;li&gt;Jean-Claude Risset - Sound Examples From the Catalogue of Computer Synthesized Sounds (1969)&lt;/li&gt;
-&lt;li&gt;Diana Deutsch - Octave illusion&lt;/li&gt;
-&lt;li&gt;Autechre - Fold4, Wrap5&lt;/li&gt;
-&lt;li&gt;Arthur Honegger - Pacific 231&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>A collection of disorienting audio paradoxes including Shepard tones, endless transpositions and Risset rhythms.
+ Diana Deutsch - introduction J.S. Bach - Canones diversi canon 5 a 2 (canon circularis per tonos) Georg Friedrich Haas - In vain, for 24 instruments Dick Hyman - The liquidator Machinefabriek - Stroomtoon 1 Gyorgy Ligeti - Études pour piano (Deuxième livre) VII. L&amp;rsquo;escalier du diable unknown - untitled 00:27:01 Gyorgy Ligeti - Violin Concerto -III- Intermezzo.</description>
     </item>
     
     <item>
@@ -318,23 +130,8 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/bastiaan_5/</guid>
-      <description>&lt;p&gt;In this mix Bastiaan dives into Russian and Sovjet music. While the initial idea was to research Italo like tracks made in the Sovjet era Bastiaan soon stumbeled upon melancholic experimental electronica from the Ural region (Стук Бамбука в XI часов) and soon found himself researching Russian and Sovjet experimental music. There is a lot more to discover, especially from great labels such as &lt;a href=&#34;https://shalash.bandcamp.com/&#34;&gt;Shalash&lt;/a&gt; and &lt;a href=&#34;https://klammklang.bandcamp.com/&#34;&gt;Klammklang&lt;/a&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Красивая Пришла - Fresh&amp;rsquo;n&amp;rsquo;up&lt;/li&gt;
-&lt;li&gt;самцы дронта - всадник без головы&lt;/li&gt;
-&lt;li&gt;Стук Бамбука в XI часов - Лошадь Моей Жизни&lt;/li&gt;
-&lt;li&gt;самцы дронта - сумерки&lt;/li&gt;
-&lt;li&gt;Стук Бамбука В XI Часов - Слабый Тигр&lt;/li&gt;
-&lt;li&gt;Rusalka - III&lt;/li&gt;
-&lt;li&gt;The Same Ensemble - the same pt 2 (Soccer Committee cover)&lt;/li&gt;
-&lt;li&gt;Федор Веткалов - Ане&lt;/li&gt;
-&lt;li&gt;Bugaev - Sonm I&lt;/li&gt;
-&lt;li&gt;Buttechno - Res I&lt;/li&gt;
-&lt;li&gt;Kosichkin tapes - Field recording&lt;/li&gt;
-&lt;li&gt;Arseny Avraamov - The March of the Workers Funeral&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>In this mix Bastiaan dives into Russian and Sovjet music. While the initial idea was to research Italo like tracks made in the Sovjet era Bastiaan soon stumbeled upon melancholic experimental electronica from the Ural region (Стук Бамбука в XI часов) and soon found himself researching Russian and Sovjet experimental music. There is a lot more to discover, especially from great labels such as Shalash and Klammklang.
+ Красивая Пришла - Fresh&amp;rsquo;n&amp;rsquo;up самцы дронта - всадник без головы Стук Бамбука в XI часов - Лошадь Моей Жизни самцы дронта - сумерки Стук Бамбука В XI Часов - Слабый Тигр Rusalka - III The Same Ensemble - the same pt 2 (Soccer Committee cover) Федор Веткалов - Ане Bugaev - Sonm I Buttechno - Res I Kosichkin tapes - Field recording Arseny Avraamov - The March of the Workers Funeral  </description>
     </item>
     
     <item>
@@ -343,12 +140,7 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Wed, 02 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/richard_1/</guid>
-      <description>&lt;p&gt;For this very special edition Richard Scott kindly provided us with a series of early morning compositions. Basically these are free works he makes while waking up. However, don&amp;rsquo;t be fooled by the setting or the &amp;lsquo;fleetingness&amp;rsquo; of these recordings; they are way more sophisticated than mere &amp;lsquo;doodles&amp;rsquo;. Nevertheless Richards recordings here never loosing their playfulness. There is some free exploration of the instruments he works with but Richard never looses his sense of composition and aesthetic quality in this 1.5 hour collection.&lt;/p&gt;
-
-&lt;p&gt;Richard on these recordings:&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“I normally spend months/years considering, composing, editing, and mixing my solo compositions, so this was like going on holiday: no second takes, no material rejected, no subsequent editing or mixing, it is as completely raw as if it came from the instrument.”&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>For this very special edition Richard Scott kindly provided us with a series of early morning compositions. Basically these are free works he makes while waking up. However, don&amp;rsquo;t be fooled by the setting or the &amp;lsquo;fleetingness&amp;rsquo; of these recordings; they are way more sophisticated than mere &amp;lsquo;doodles&amp;rsquo;. Nevertheless Richards recordings here never loosing their playfulness. There is some free exploration of the instruments he works with but Richard never looses his sense of composition and aesthetic quality in this 1.</description>
     </item>
     
     <item>
@@ -357,28 +149,9 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/pingpong_7/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;pingpong:&lt;/strong&gt; collaborative mixtapes.
-each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.&lt;/p&gt;
-
-&lt;p&gt;episode #7: LN / Nil&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;helvetia&lt;/strong&gt; see saw sow [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;death cab for cutie&lt;/strong&gt; title and registration [N]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;snailhouse&lt;/strong&gt; what are your coordinates [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;brodu&lt;/strong&gt; iċ-ċimiterju [N]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;secret stars&lt;/strong&gt; some sinatra [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;motorpsycho&lt;/strong&gt; now it’s time to skate [N]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;the burning hell&lt;/strong&gt; i love the things that people make [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;fog&lt;/strong&gt; plum dumb [N]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;machinefabriek + soccer committee&lt;/strong&gt; magpie [LN]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;lambchop&lt;/strong&gt; my face your ass [N]&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;bill callahan&lt;/strong&gt; winter road [LN]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;pingponged oct 2017 - mar 2018.
-mixed by LN.&lt;/p&gt;
-</description>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #7: LN / Nil
+ helvetia see saw sow [LN] death cab for cutie title and registration [N] snailhouse what are your coordinates [LN] brodu iċ-ċimiterju [N] secret stars some sinatra [LN] motorpsycho now it’s time to skate [N] the burning hell i love the things that people make [LN] fog plum dumb [N] machinefabriek + soccer committee magpie [LN] lambchop my face your ass [N] bill callahan winter road [LN]  pingponged oct 2017 - mar 2018.</description>
     </item>
     
     <item>
@@ -387,22 +160,337 @@ mixed by LN.&lt;/p&gt;
       <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
       
       <guid>http://eatthisradio.com/post/wouter_7/</guid>
-      <description>&lt;p&gt;The Shaggs - my pal foot foot (excerpts: drumsolo&amp;rsquo;s)
-Justin Vollmar - When Love Love Love
-David Ross - Stochastic Moods (excerpt)
-Pierre Bastien - Mecano Ostinato
-Sarah Davachi - Chanter
-Eli Keszler - Corresponding Probably To Quanta
-Holly Herndon - Solo voice
-Pierre Berthet - tubular drums drops &amp;amp; springs (excerpt)
-Pillow - three henries no#1
-The Dirty Three - Backwards Voyager
-Mitchell Akiyama - Monopole de verre
-La Monte Young - Sunday Morning Blues
-Xela - a floating procession
-Oval - Gabba Nation
-Laurel Halo - Leaves&lt;/p&gt;
-</description>
+      <description>The Shaggs - my pal foot foot (excerpts: drumsolo&amp;rsquo;s) Justin Vollmar - When Love Love Love David Ross - Stochastic Moods (excerpt) Pierre Bastien - Mecano Ostinato Sarah Davachi - Chanter Eli Keszler - Corresponding Probably To Quanta Holly Herndon - Solo voice Pierre Berthet - tubular drums drops &amp;amp; springs (excerpt) Pillow - three henries no#1 The Dirty Three - Backwards Voyager Mitchell Akiyama - Monopole de verre La Monte Young - Sunday Morning Blues Xela - a floating procession Oval - Gabba Nation Laurel Halo - Leaves</description>
+    </item>
+    
+    <item>
+      <title>Heart and Soul</title>
+      <link>http://eatthisradio.com/post/matt_1/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/matt_1/</guid>
+      <description>Matt Elliott has been around in the world of music for a while and manages to keep surprising with his music. This mix he made for Eat This Radio is no exception to this. Sit back and let Matt Elliott take you on a trip he put his heart and soul in!
+ Just me and you - The Dreamlines I am controlled by your love - Helene Smith Black midnight - J.</description>
+    </item>
+    
+    <item>
+      <title>pingpong #6</title>
+      <link>http://eatthisradio.com/post/pingpong_6/</link>
+      <pubDate>Tue, 17 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/pingpong_6/</guid>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #6: Dan’s with E / LN
+ cameron avery - dance with me [D] the creeping nobodies - follow [LN] silkworm - don’t make plans this friday [D] smog - wine-stained lips [LN] lee hazlewood - the night before [D] songs: ohia - redhead [LN] hayden - home by saturday [D] the microphones - i felt your shape [LN] forest fire - fortune teller [D] stanley brinks - i’ll be with you [LN] joel r.</description>
+    </item>
+    
+    <item>
+      <title>15 over 15</title>
+      <link>http://eatthisradio.com/post/wim_2/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wim_2/</guid>
+      <description>Wim returns with a second mix. The description Wim gave us says all. Enjoy! &amp;ldquo;Ok, i like long songs. i recently noticed that quite a few 15+ minutes songs were on my list of tracks that i&amp;rsquo;ve been spinning a lot. so, there was the idea: 15 songs that normally take over 15 minutes, cut down to about 4 minutes each. i know, it doesn&amp;rsquo;t make sense: the whole point of most of these tracks is that they last a lot longer than 4 minutes, evolve slowly and have a distinct effect because of their length.</description>
+    </item>
+    
+    <item>
+      <title>suomi</title>
+      <link>http://eatthisradio.com/post/bastiaan_4/</link>
+      <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/bastiaan_4/</guid>
+      <description>Bastiaan returns for his fourth mix. This time the focus is music from Finland. Ranging from the sweet lo-fi of Kukka (do listen to the amazing &amp;ldquo;collected works&amp;rdquo;) to very early electronics of Erkki Kurenniemi. Take a roadtrip through this wonderful musical landscape!
+ Sibiri - Aavikko Chabom - Kukka Karkumatka rantaan- Kynnet Pauhuudellen - Tyynyt El Fantasma Del Italpark - Larry &amp;amp; The Lefthanded Tesla - Jimi Tenor afternoon girl - Ovuca S-Bahn - Ø Sähkösoittimen Ääniä #4 &amp;amp; #1 - Erkki Kurenniemi Tela - Pan Sonic Maininki - Lau Nau Haikea Kirkas - Islaja Untitled - Kiila Pehmeä iho - Es Neiges: V.</description>
+    </item>
+    
+    <item>
+      <title>heart is a bird</title>
+      <link>http://eatthisradio.com/post/jb_1/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/jb_1/</guid>
+      <description>Jessica Bailiff joins Eat This Radio with a one hour mix full of dreamy, hushed music. It sounds like one of those wonderful first spring days, when you just feel the warmth of the sun for the first time after winter and hear the first birds sing again.
+ Intro - Eat This Radio His Name Is Ailve - Vanilla Boduf Songs - My Continuing Battle with Material Reality David Bowie - ‘Tis a Pity She Was a Whore Radiohead - Decks Dark PJ Harvey - England Flying Saucer Attack - Track 13 Low - Waiting Nick Cave and the Bad Seeds - Anthrocene His Name Is Alive - Darker Than Blue Thom Yorke - Truth Ray Fever Ray - When I Grow Up Flying Saucer Attack - Track 12 Low - Just Make It Stop Radiohead - Present Tense Fever Ray - I’m Not Done His Name Is Alive - Dream Tiger  </description>
+    </item>
+    
+    <item>
+      <title>pingpong #5</title>
+      <link>http://eatthisradio.com/post/pingpong_5/</link>
+      <pubDate>Sat, 31 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/pingpong_5/</guid>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #5: LN / Ulli
+ jonwayne - out of sight [LN] dondero high school - heart in pieces [U] the books - past comes welling up [LN] the soft boys - sandra’s having her brain out [U] d+ - put me back - live [LN] baseball - land of darkness, land of dogs [U] grass widow - uncertain memory [LN] mike doughty - frog and a banjo [U] jeffrey + jack lewis - anxiety attack [LN] oh-ok - such n such [U] dismemberment plan - the other side [LN]  pingponged dec 2017 - jan 2018.</description>
+    </item>
+    
+    <item>
+      <title>Songs for when you&#39;re snowbound [..]</title>
+      <link>http://eatthisradio.com/post/boduf_1/</link>
+      <pubDate>Sun, 25 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/boduf_1/</guid>
+      <description>Mat Sweet, a.k.a Boduf Songs has been making amazing music over the years. He joins Eat This Radio with a great mix with an amazing name (that sadly doesn&amp;rsquo;t fit in the title) so we&amp;rsquo;ll just put it here.
+Enjoy listening to &amp;ldquo;Songs for when you&amp;rsquo;re snowbound and supplies are getting low and the only other person there goes out for help and you have a feeling they won&amp;rsquo;t be coming back and you&amp;rsquo;re ok with it&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>MFR #12</title>
+      <link>http://eatthisradio.com/post/mfr_1/</link>
+      <pubDate>Fri, 23 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/mfr_1/</guid>
+      <description>Moving Furniture Records from Amsterdam has been building an impressive catalogue of quality releases over the years. We are happy to welcome Sietse van Erve on Eat This Radio, sharing some of his favorite tracks!
+ Jospeh Kurdika - Downer Catherine Lamb - Matter/Moving (3) Eliane Radigue - Occam III Radboud Mens &amp;amp; Matthijs Kouw - A Phill Niblock - Parker&amp;rsquo;s Altered Mood, AKA, Owed To Bird Sarah Davachi - Burgundy Kassel Jaeger - Retroaction 2- Non-controlled Aerial Feedbacks Triac - Across  </description>
+    </item>
+    
+    <item>
+      <title>eat this records #2</title>
+      <link>http://eatthisradio.com/post/carlos_2/</link>
+      <pubDate>Sat, 17 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/carlos_2/</guid>
+      <description>Carlos returns for the second part of the Eat This Records special. Again he dove into history and came back with this amazing mix. Excellent music!
+ Koolfonk - Ilsa Loden - Vlugt (and more for you) Swap - NN rmx Gimmik - NN rmx Gosub - NN rmx Legowelt - discobitch EOG - NN rmx d&amp;rsquo;Enborage - Capacitor Math - Water (enwaded) Mitchel Akiyama - Spiral jetty Metal Beast- Upcgriqr (L&amp;rsquo;usine rmx)  </description>
+    </item>
+    
+    <item>
+      <title>pingpong #4</title>
+      <link>http://eatthisradio.com/post/pingpong_4/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/pingpong_4/</guid>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #4: LN / popgunpirates
+ golden diskó ship - wake/sleep [LN] raccoo-oo-oon - visage of the fox [pp] evangelista - in animal tongue [LN] coh (feat. little annie) - curious yellow [pp] the books - if not now, whenever [LN] balmorhea - bowsprit [pp] pretend - some how [LN] volcano!</description>
+    </item>
+    
+    <item>
+      <title>through sleet and snow</title>
+      <link>http://eatthisradio.com/post/johan_2/</link>
+      <pubDate>Sun, 11 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/johan_2/</guid>
+      <description>Johan returns with a second mix for Eat This Radio. Inspired by commuting through collective traffic through nasty Swedish winter weather Johan takes us on a dark cold journey. Dress up warm for this mix!
+ Nortt - Af Döde Jaap Vink - Granule American Cloud Songs - Solar Initiation Colin Stetson - Home Marc Ribot - Bateau Arnold Dreyblatt - Group Velocity Damon Albarn and Michael Nyman - Colquhoun’s Story (excerpt) Wreathes - The Reigns Radik Tyulyush- Oskys Urug Alasdair Roberts - Dighty Kassel Jaeger and Jim O’Rourke - Wakes On Cerulean (excerpt) Yair Elazar Glotman - Retenant Oren Ambarchi - Song Of Separation part 2 Nathan Moody - Sapphire John Frusciante - Cut Myself Out  </description>
+    </item>
+    
+    <item>
+      <title>the lower frequency spectrum</title>
+      <link>http://eatthisradio.com/post/wouter_6/</link>
+      <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wouter_6/</guid>
+      <description>Wouter explores the depths of sub bass and low frquency sounds. Dive in and enjoy!
+ Thomas Köner - Ilira Mika Vainio - hallitaajuus Emptyset - Body Francisco Lopez - El Dia Anterior A La Emergencia De Los Adultos De Magicicada Annea Lockwood - turning gong Beatrice Dillon - A Different River Once (excerpt) Annea Lockwood - deep water gong Oren Ambarchi - Fever, A Warm Poison Zeno van den Broek - Canon 1 - excerpt - Paranon Farmers Manual - Macro Woeb David Toop - Ancestral Beings, Sightless by Their Own Dust Phill Niblock - Stosspeng I Daniel Menche - He was One and Many-2512764980 Sunn o))) - alice  </description>
+    </item>
+    
+    <item>
+      <title>eat this records #1</title>
+      <link>http://eatthisradio.com/post/carlos_1/</link>
+      <pubDate>Sun, 04 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/carlos_1/</guid>
+      <description>We are proud to give you the first of two mixes by Carlos Kok, the founder of the wonderful Eat This Records. Carlos takes you through the catalogue of what once was and what still is amazing! A total of two hours of underground electronic music that made a difference. Sit back and remember:)
+ Kalle Dawidson - NN Quick and bright - Super bmx Funckarma - NN Endorphins - Jeth Math - Hex Legowelt - Berlin Ostbahnhof Orgue electronique - Lullaby Loess - Lull Mitchell Akiyama - Her summer has only days Loden - A better landing Quench - Corb L&amp;rsquo;usine - NN Endorphins - c64lprom  </description>
+    </item>
+    
+    <item>
+      <title>gruizig en prettig</title>
+      <link>http://eatthisradio.com/post/wouter_5/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wouter_5/</guid>
+      <description>A collection of songs, things and other things
+ Woelv / Genevieve Castree / O Paon - Aéroport / Évolution Baka People - Hut song John Cale - Trance #2 Basil Kirchin - Primitive London VI My Bloody Valentine - Lose My Breath Lawrence English - Cemetery Gate Hobart Australia Soccer Committee - Blessed Sarah Davachi - For Voice (edit) Ghédalia Tazartès - Reviens Os Mutantes - Fuga #2 (edit) The free design - If I were a carpenter Nico - Le petit chevalier Roj - Attaining the Third state Pierre Bastien - X (R6) II Zi[L] Basil Kirchin - Once upon a time (excerpt) Doris - You Never Come Closer Broadcast - Teresa, Lark of Ascension Roberto Musci - Katak Dance for H Partch Tony Caro and John - Eclipse of the Moon Basil Kirchin - Primitive London IV Keith Fullerton Whitman - Schnee Linda Perhacs - Parallelograms Steve Roden - this is for everyone who wants to dance Mountains - bay Vashti Bunyan - Winter is Blue The Focus Group - Make Way Tape - Golden Twig Brigitte Fontaine - Brigitte  </description>
+    </item>
+    
+    <item>
+      <title>pingpong #3</title>
+      <link>http://eatthisradio.com/post/pingpong_3/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/pingpong_3/</guid>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #3: LN / Dan4Evers
+ mirah - 100 knives [LN] cat stevens - the first cut is the deepest [D] tara jane o’neil - new harm [LN] dinosaur jr. - feel the pain [D] trash kit - medicine [LN] shockabilly - when you dream about bleeding [D] young people - forget [LN] four one and only’s - completely nude between forgetmenots [D] grass widow - cover you [LN] andy shauf - wendell walker (live at the drake hotel) [D] picastro - the stiff [LN]  pingponged nov-dec 2017.</description>
+    </item>
+    
+    <item>
+      <title>do while</title>
+      <link>http://eatthisradio.com/post/bastiaan_3/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/bastiaan_3/</guid>
+      <description>Cut up, looped, endless music. Bastiaan dives into music based on loops from very subtle background loops to slowly shifting patterns that will hypnotise you. Best played on endless repeat! (artwork by Katya Sannikova)
+ Es - A love cycle Saule - Hola Akira Rabelais - And the permanence of smoke or stars Es - Les fleurs son des bonnes audtrices Giuseppe Lalesi - 08 Fennesz - Before I leave Kyoka - Toy planet Oval - Do While  </description>
+    </item>
+    
+    <item>
+      <title>drawing music from the ether</title>
+      <link>http://eatthisradio.com/post/johan_1/</link>
+      <pubDate>Sat, 24 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/johan_1/</guid>
+      <description>Johan G Winther joins Eat This Radio with a wonderful mix that fits well this time of the year. Spring is almost there, that&amp;rsquo;s how this mix sounds like. Meditative like the winter with bright sounds that announces spring. Enjoy!
+ Eliane Radigue - Usral (April 1969) Delia Derbyshire - The Pattern Emerges Micheline Coulombe Saint-Marcoux - Moustières Else Marie Pade - Illustrationer Kong Vinter Lydia Kavina - Free music no.</description>
+    </item>
+    
+    <item>
+      <title>hit me with your rhythm brick!</title>
+      <link>http://eatthisradio.com/post/wouter_4/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wouter_4/</guid>
+      <description>Wouter returns with a collection of people playing rhythmic things that are strange, straightforward or both&amp;hellip;
+ Ella Jenkins - Rhythm Instruments: Rhythm Sticks
+ Louis Andriessen - Hoketus
+ Yowie - Ineffable Dolphin Communion
+ OOIOO - UMA
+ Galina Ustvolskaya - Composition II Dies irea V &amp;amp; VI
+ David Lang - Cheating, Lying, Stealing
+ Ella Jenkins - Different Rhythms
+ Moondog - Single Foot
+ Brigitte Fontaine - Comme a la Radio</description>
+    </item>
+    
+    <item>
+      <title>rêves et mémoires</title>
+      <link>http://eatthisradio.com/post/amp/</link>
+      <pubDate>Sat, 17 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/amp/</guid>
+      <description>Amp have a long history in music. They formed in the 90&amp;rsquo;s as part of the immensely creative Bristol scene along side bands such as Flying Saucer Attack and the Third Eye Foundation. We are delighted they joined Eat This Radio with a eclectic mashup compiled by Richard Amp. A mix full of memories of what was and dreams what can be. Over an hour of sonic explorations!
+ Excerpt from Jeff Wayne’s War Of The Worlds Programme - Une Vie (edit) Stockhausen - No 12 Kontakte (1959&amp;frasl;1960) excerpt BBC Sound Effects Record - No.</description>
+    </item>
+    
+    <item>
+      <title>pingpong #2</title>
+      <link>http://eatthisradio.com/post/pingpong_2/</link>
+      <pubDate>Fri, 16 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/pingpong_2/</guid>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #2: LN / Marion [LN’s mom]
+ william onyeabor - better change your mind [LN] keimzeit - zukunft [M] colin stetson + sarah neufeld - won’t be a thing to become [LN] the notwist - your signs [M] björk - the anchor song [LN] pj harvey - water [M] young people - fly seagull fly [LN] radiohead - weird fishes / arpeggi [M] mount kimbie - delta [LN] zero 7 - red dust [M] d33j - park [LN]  pingponged okt-nov 2017.</description>
+    </item>
+    
+    <item>
+      <title>delicate structures</title>
+      <link>http://eatthisradio.com/post/rutger1/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/rutger1/</guid>
+      <description>Rutger Zuydervelt has been active in the music scene for quite some time now under his monniker Machinefabriek. For eat this radio he compiled a mix full of delicate sounds, almost complete silences. Please close your eyes, listen and take this musical journey with Rutger Zuydervelt.
+ Jürg Frey - Extended Circular Music No.2 (performed by Philip Thomas) Steve Reich - Come Out Film - Out of Doors Giuseppe Ielasi - untitled Jabu - Tomb Yastaki Shimizu - Bridgestone 4 Nicola Ratti - r40 Erik Satie - Vexations (performed by Alan Marks) Ueno - untitled Ton - Mi AM/PM - The Ends (2) Jazzkammer - Pulse Jabu - Searc Jürg Frey - Extended Circular Music No.</description>
+    </item>
+    
+    <item>
+      <title>spring break downer vibes</title>
+      <link>http://eatthisradio.com/post/wim1/</link>
+      <pubDate>Tue, 13 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wim1/</guid>
+      <description>Wim_morc dives into lo-fi, chansons and anything that will kill your Spring Break mood. We are very pleased with this wonderful collection of songs. After finishing this mix Wim told us already he has new ideas for more. We can&amp;rsquo;t wait!
+Wim_morc runs the wonderful Morc tapes label. The label has produced a steady stream of beautiful releases that are all worth checking out. Beside that he also makes music as Circle Bros.</description>
+    </item>
+    
+    <item>
+      <title>a collection of pulses</title>
+      <link>http://eatthisradio.com/post/wouter_3/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wouter_3/</guid>
+      <description>Pulses, bleeps and patterns are the focus of this impressive mix by Wouter. Ranging from the early fifties to now this mix gives a comprensive overview into experimental electronic music through the past 60 years. Sit down and enjoy!
+ Geiger Counter - Kraftwerk Canon - 3, Super Addere (excerpt) - Dick Raaijmakers data.triplex - Ryoiji Ikeda Mechanical Motions - Dick Raaijmakers Band 5: Rhythmic Variation - Daphne Oram Three Single Sounds Taken In Canon i - Daphne Oram Winkel Pong - Ursula Bogner The Dead Past - Robert Aiki Aubrey Lowe Themes II - Rashad Becker En phase / Hors phase - Bernard Parmegiani Minuut 5 - Machinefabriek Uviol - Autechre Interzone Bureau Desk - Robert Aiki Aubrey Lowe Les Traces D&amp;rsquo;un Pont - Benjamin Lew The Rhythm Modulator - Raymond Scott Toc - Komet Automatic Ping - Keith Fullerton Whitman Deuxième série: polyrythmie - François Bayle Ole - nebulo Gamelan - Maggi Payne Drums - Laurie Spiegel Liquid Energy - Brian Hodgson, Delia Derbyshire, Don Harper Toy Funk - Raymond Scott Softgrid - Richard Scott Rhythmic Variations i - Daphne Oram Hahmo - Pan Sonic Module 6 - Alva Noto  </description>
+    </item>
+    
+    <item>
+      <title>günther #1</title>
+      <link>http://eatthisradio.com/post/gunther_1/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/gunther_1/</guid>
+      <description>Regular guest Günther kicks off with a mix full of avant-garde and exprimental music. Ranging from drone experiments to industrial mixed with a healthy portion of wave.
+ Lemon Kittens - Rome Burning Nurse With Wound - Ketamineaphonia This Heat - Twilight Furniture Popol Vuh - In den Gärten Pharaos Lines - The Landing Factory Floor- Bipolar Wipers- When It&amp;rsquo;s Over  </description>
+    </item>
+    
+    <item>
+      <title>pingpong #1</title>
+      <link>http://eatthisradio.com/post/pingpong_1/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/pingpong_1/</guid>
+      <description>pingpong: collaborative mixtapes. each episode features another opponent who&amp;rsquo;s family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.
+episode #1: LN / Bastiaan
+ richard skelton noon hill wood [LN] lichens swarmed - live [B] king krule czech one [LN] carla dal forno the garden [B] scout niblett uptown top ranking [LN] ex-easter island head four guitars [B] ignatz dead by noon [LN] crescent abstract forms [B] holy sons station id #1 [LN] gowns feathers [B] the iditarod older, not wiser [LN]  pingponged okt-nov 2017.</description>
+    </item>
+    
+    <item>
+      <title>hushed voices</title>
+      <link>http://eatthisradio.com/post/bastiaan_2/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/bastiaan_2/</guid>
+      <description>Mechanizedmind a.k.a. Bastiaan is a regular contributor to and co-founder of Eat This Radio. In this episode Bastiaan heads out to explore the depths of spaced out guitars, hushed voices and melancholic melodies.
+ Kikagaku Moyo - Fata Morgana Amp - Polemic Flying Saucer Attack - The Season Is Ours Amp - Lightdripglow Windy &amp;amp; Carl - Undercurrent Roy Montgomery - The Soul Quietens Landing - Scenes Upon The Trees Tara Jane O&amp;rsquo;Neil - The Louder Jessica Bailiff - One Red Year Grouper - STS Felicia Atkinson - Infant Vampire William Basinski - Melancholia I  </description>
+    </item>
+    
+    <item>
+      <title>günther #2</title>
+      <link>http://eatthisradio.com/post/gunther_2/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/gunther_2/</guid>
+      <description>Günther continues with a second mix for Eat This Radio. This time flirting with noise, industrial, drone and everything that comes along the way.
+ Dance Disaster Movement - I Want Your Sass Laddio Bolocko - Nurser Pink Industry - Time For Change Slowdive - Changes TEARIST - Disposition Leisur Hive - Try To Be Still Swans - Real Love Tropic Of Cancer - Be Brave Lebanon Hanover Gallowdance M Nilson- I hope You Die Karen Lawrence - I Won`t stop The holydrug couple - counting sailboats 13Arif Sag - Su Samsunun Evleri  </description>
+    </item>
+    
+    <item>
+      <title>the synthesized häpna books</title>
+      <link>http://eatthisradio.com/post/wouter_2/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wouter_2/</guid>
+      <description>Wouter van Veldhoven build a name with his performances with tape recorder, self build instruments and analogue synthesizers. Wouter will explore the depths of music in eclectic shows full of experiment. Wouters second show focusses on the wonderful Häpna label and affiliated music.
+ Fantomoj de la Vitro Domo - Robert Aiki Aubrey Lowe See-Through - Arthur Russell Cyclic bit - Raymond Scott Il, Les Quitta A L&amp;rsquo;Aube - Benjamin Lew, Steven Brown You&amp;rsquo;ll never be alone - The Books Quiet Industry - Belbury Poly and Spacedog Ghost Riders in the Sky - The Space Lady Meditation outtakes - The Books Nigatsu - Asa-Chang &amp;amp; Junray Millions of millions - The Books (Chintrap) - Machinefabriek Hikoki - Tenniscoats Sand Dunes - Tape Drowned but survived - The Books How to Behave in Elevators - Musette Zenna &amp;amp; Marie (excerpt) - Hans Appelqvist  </description>
+    </item>
+    
+    <item>
+      <title>synth melodies</title>
+      <link>http://eatthisradio.com/post/bastiaan_1/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/bastiaan_1/</guid>
+      <description>Mechanizedmind aka Bastiaan is a regular contributor to and co-founder of Eat This Radio. Catchy synth melodies are the star of this episode. Ranging from Fridge to The Space Lady.
+ Fridge - Ark Broadcast - Belly dance Beak&amp;gt; - Eggdog Boards of Canada - Reach for the dead Sleep party People - An iris Pseudocorus Anika - I go to sleep Nine Circles - Twinkling stars Position Parallel - Comme ca Ruth - Polaroid roman photo The Space Lady - Major tom  </description>
+    </item>
+    
+    <item>
+      <title>things</title>
+      <link>http://eatthisradio.com/post/wouter_1/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/post/wouter_1/</guid>
+      <description>Wouter van Veldhoven build a name with his performances with tape recorder, self build instruments and analogue synthesizers. Wouter will explore the depths of music in eclectic shows full of experiment. This first show, fittingly called Things, Wouter serves you a mix of experimental music of all sorts.
+ Francoise Bayle - La fin du bruit: éros rouge David Toop - Sea Slug Taylor Deupree - Minism Lou Harrison - Concerto In Slendro: II.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://eatthisradio.com/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://eatthisradio.com/page/about/</guid>
+      <description>Eat This Radio is a platform for alternative music made by music lovers. We bring you mixes made by us, our friends and heroes. There is no regular schedule, we add new mixes when we get them. Check back on this website or follow us on Facebook
+Eat This Radio is made by:
+Bastiaan Verhage
+LN
+Wouter van Veldhoven
+With many thanks to:
+Michaela Jung
+Ingo
+Robhar</description>
     </item>
     
   </channel>
