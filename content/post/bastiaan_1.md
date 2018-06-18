@@ -10,8 +10,8 @@ size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/bastiaan-1-synth-melodies/
 ---
 
-Mechanizedmind a.k.a. Bastiaan is a regular contributor to and co-founder of Eat This Radio.
-Catchy synth melodies are the star of this episode. Ranging from Fridge to The Space Lady. 
+Mechanizedmind aka Bastiaan is a regular contributor to and co-founder of Eat This Radio.
+Catchy synth melodies are the star of this episode. Ranging from Fridge to The Space Lady.
 
 - Fridge - Ark
 - Broadcast - Belly dance
