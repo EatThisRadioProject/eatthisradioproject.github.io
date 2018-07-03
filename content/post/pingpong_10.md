@@ -6,7 +6,7 @@ author: "Wouter van Veldhoven / LN"
 date: 2018-06-15
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-10-wouter-van-veldhoven-ln/ 
 ---
 
