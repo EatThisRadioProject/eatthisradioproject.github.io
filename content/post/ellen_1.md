@@ -1,8 +1,8 @@
 ---
 draft: false
 type: post
-title: “coincidence is logical”
-author: “kaleidoskoop”
+title: "coincidence is logical"
+author: "kaleidoskoop"
 date: 2018-07-15
 meta_img: /images/photo_xs.jpg
 img: /images/photo_xl.jpg
