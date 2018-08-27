@@ -6,7 +6,7 @@ author: "Leo J. Meijer / LN"
 date: 2018-07-01
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-11-leo-j-meijer-ln/ 
 ---
 

@@ -6,7 +6,7 @@ author: "kaleidoskoop"
 date: 2018-07-15
 meta_img: /images/photo_xs.jpg
 img: /images/photo_xl.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/kaleidoskoop-coincidence-is-logical/ 
 ---
 

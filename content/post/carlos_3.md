@@ -6,7 +6,7 @@ author: "Carlos Kok"
 date: 2018-06-15
 meta_img: /images/carlos_3.jpg
 img: /images/carlos_3.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/carlos-kok-headnod-universe/
 ---
 
