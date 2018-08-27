@@ -1,8 +1,8 @@
 ---
 draft: false
 type: post
-title: "pingpong #12”
-author: “J C Van / LN"
+title: "pingpong #12"
+author: "J C Van / LN"
 date: 2018-08-26
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
@@ -26,8 +26,7 @@ episode #12: J C Van / LN
 - **john parish & pj harvey** rope bridge crossing [JC]
 - **cate le bon** burn until the end [LN]
 - **jack ladder (feat. sharon van etten)** come on back this way [JC]
-
-+ bonus track [JC]
+- **bonus track** [JC]
 
 pingponged jun - aug 2018.
 mixed by LN.
