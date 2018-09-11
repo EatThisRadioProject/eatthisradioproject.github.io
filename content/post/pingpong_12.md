@@ -6,7 +6,7 @@ author: "J C Van / LN"
 date: 2018-08-26
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-12-j-c-van-ln/ 
 ---
 
