@@ -25,7 +25,10 @@ episode #12: J C Van / LN
 - **f.s. blumm** fehlsprung [LN]
 - **john parish & pj harvey** rope bridge crossing [JC]
 - **cate le bon** burn until the end [LN]
-- **jack ladder (feat. sharon van etten)** come on back this way [JC]
+- **jack ladder (feat. sharon van etten)** come on back this way [JC]  
+
+
+
 - **bonus track** [JC]
 
 pingponged jun - aug 2018.
