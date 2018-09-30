@@ -6,7 +6,7 @@ author: "richard scott"
 date: 2018-09-11
 meta_img: /images/13970205P78p27c640.jpg
 img: /images/13970205P78p27c640.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/richard-scott-everyday-arithmetic-vol2/
 ---
 

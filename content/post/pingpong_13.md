@@ -6,7 +6,7 @@ author: "carl / LN"
 date: 2018-09-15
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-13-carl-ln/
 ---
 

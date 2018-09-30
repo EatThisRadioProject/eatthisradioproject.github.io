@@ -6,7 +6,7 @@ author: "Mechanizedmind"
 date: 2018-08-15
 meta_img: /images/lost-highway-front.jpg
 img: /images/lost-highway-front.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/late-night-driving/
 ---
 
