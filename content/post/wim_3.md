@@ -15,7 +15,7 @@ Wim returns with a third mix! This time he dives into folk inspired music. As al
 - Barron Brady - Earthen Key
 - The Garbage & The Flowers - Sandy Skie
 - Kitchen Cynics - the place you hid
-- Castanets - the destroyer
+- Castanets - the Destroyer
 - The doozer - sheet music
 - For Carnation - Winter Lair
 - ARLT - Je voudrais être mariée
