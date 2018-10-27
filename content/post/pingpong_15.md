@@ -1,9 +1,15 @@
 ---
 draft: false
 type: post
+<<<<<<< HEAD
 title: "pingpong #15"
 author: "golden diskó ship / LN"
 date: 2018-10-26
+=======
+title: "pingpong #15”
+author: “golden diskó ship / LN"
+date: 2018-11-01
+>>>>>>> 20eb10fb883a49fc1c16c60a119e79a5f0bfab80
 meta_img: /images/pingpongklein.png
 img: /images/pingpong.png
 size: 2
@@ -28,4 +34,8 @@ episode #15: golden diskó ship / LN
 - **fun fare** angry colour [gds]
 
 pingponged jun - oct 2018.
+<<<<<<< HEAD
 mixed by LN.
+=======
+mixed by LN.
+>>>>>>> 20eb10fb883a49fc1c16c60a119e79a5f0bfab80
