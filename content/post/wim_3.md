@@ -6,7 +6,7 @@ author: "wim_morc"
 date: 2018-10-12
 meta_img: /images/wim_3.jpg
 img: /images/wim_3.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/wim-morc-its-not-sheet-music/
 ---
 
