@@ -28,8 +28,8 @@ mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-16-ln-mkl/
 | <small>6</small> |   | **dome** 						<small>		cruel when complete					**</small>	|
 | <small>7</small> |   | **htrk** 						<small>		ha 									*</small>   |
 | <small>8</small> |   | **vollmar** 					<small>		when love love love (vpro session) 	**</small>|
-| <small>9</small> |   | **low** 						<small>		breath's end is the only thing that sleeps *</small>|
-| <small>10</small>|   | **timber rattle** 				<small>		let's stay together					**</small>|
+| <small>9</small> |   | **low** 						<small>		let's stay together 				*</small>|
+| <small>10</small>|   | **timber rattle** 				<small>		breath's end is the only thing that sleeps	**</small>|
 | <small>11</small>|   | **castanets** 					<small>		into the night						*</small>|
 
 
