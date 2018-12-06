@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://eatthisradio.com/post/bastiaan_8/</loc>
+    <lastmod>2018-12-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://eatthisradio.com/post/pingpong_17/</loc>
+    <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://eatthisradio.com/post/pingpong_16/</loc>
     <lastmod>2018-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -313,7 +323,7 @@
   
   <url>
     <loc>http://eatthisradio.com/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -324,7 +334,7 @@
   
   <url>
     <loc>http://eatthisradio.com/post/</loc>
-    <lastmod>2018-11-15T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
