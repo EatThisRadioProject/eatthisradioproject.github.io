@@ -10,9 +10,9 @@ size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/mechanizedmind-unbearable-lightness/
 ---
 
-Sometimes you don't need or want to describe something so let this mix speak for itself. Forget everything around you and just listen. Low lights recommended.
+Sometimes you don't need or want to describe something so let this mix speak for itself. Forget everything around you and just listen. Low lights recommended. Many thanks to Wouter for some extra inspiration making this mix.
 
-- The third eye foundatio - Lions writing the bible
+- The third eye foundation - Lions writing the bible
 - Coil - Tattooed man
 - Sun Kil Moon - Heron blue
 - Six organs of admittance - This hand
