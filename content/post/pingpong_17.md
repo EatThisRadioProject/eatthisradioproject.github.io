@@ -6,7 +6,7 @@ author: "popgunpirates / LN"
 date: 2018-12-01
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-17-popgunpirates-ln/ 
 ---
 

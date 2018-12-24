@@ -6,7 +6,7 @@ author: "mechanizedmind"
 date: 2018-12-04
 meta_img: /images/Untitled2008.jpg
 img: /images/Untitled2008.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/mechanizedmind-unbearable-lightness/
 ---
 
