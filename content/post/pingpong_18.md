@@ -2,7 +2,7 @@
 draft: false
 type: post
 title: "pingpong #18"
-author: "LN / FSBLUMM"
+author: "LN / F.S.BLUMM"
 date: 2018-12-15
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
@@ -14,7 +14,7 @@ mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-18-ln-fsblumm/
 <small><b>pingpong:</b> collaborative mixtapes.<br>
 	each episode features another opponent who's family, friend or hero (or all). alternating contributions unfold into expeditions, collisions, constructions and awe.</small>
 
-<small>this episode features contributions by <b>LN\*</b> and <b>FSBLUMM\*\*</b>.</small>
+<small>this episode features contributions by <b>LN\*</b> and <b>F.S.BLUMM\*\*</b>.</small>
 
 
 
