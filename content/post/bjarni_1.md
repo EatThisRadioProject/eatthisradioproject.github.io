@@ -6,7 +6,7 @@ author: "Bjarni Gunnarsson"
 date: 2018-09-30
 meta_img: /images/bjarni1.jpeg
 img: /images/bjarni1.jpeg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/bjarni-gunnarsson-the-order-of-time/
 ---
 

@@ -6,7 +6,7 @@ author: "Annie Milward"
 date: 2018-12-24
 meta_img: /images/postpunk.jpeg
 img: /images/postpunk.jpeg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/annie-milward-post-punk-from-up-north/
 ---
 
