@@ -6,7 +6,7 @@ author: "LN / DJ DE BOER"
 date: 2019-02-01
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-20-ln-dj-de-boer/ 
 ---
 
