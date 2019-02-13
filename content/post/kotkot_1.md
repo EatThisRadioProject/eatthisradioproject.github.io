@@ -10,7 +10,7 @@ size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/lena-filatova-movies-1/
 ---
 
-This is the start of a series of mixes Lena Filatova, a.k.a. Kot Kot Sings, will be doing for Eat This Radio. The series will be focussing on music from movies mixed together into a nostalgic listening experience. We are very happy to have Lena on board at Eat This Radio. Please also check out her amazing recordings she does under the name of Kot Kot Sings. They come highly recommended!
+This is the start of a series of mixes Lena Filatova, a.k.a. Kot Kot, will be doing for Eat This Radio. The series will be focussing on music from movies mixed together into a nostalgic listening experience. We are very happy to have Lena on board at Eat This Radio. Please also check out her amazing recordings she does under the name of Kot Kot. They come highly recommended!
 
 - I Ask to Accuse Klava K. of My Death (В моей смерти прошу винить Клаву К.), 1979
 - On the Comet (Na komete), 1970
