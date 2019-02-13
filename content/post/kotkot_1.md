@@ -2,7 +2,7 @@
 draft: false
 type: post
 title: "music for film & radio #1"
-author: "Kot Kot Sings"
+author: "Kot Kot"
 date: 2019-02-12
 meta_img: /images/2018-11-17_22-22-36.png
 img: /images/2018-11-17_22-22-36.png
