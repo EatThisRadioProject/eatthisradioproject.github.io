@@ -6,7 +6,7 @@ author: "Kot Kot"
 date: 2019-02-12
 meta_img: /images/2018-11-17_22-22-36.png
 img: /images/2018-11-17_22-22-36.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/lena-filatova-movies-1/
 ---
 
