@@ -6,7 +6,7 @@ author: "Kot Kot"
 date: 2019-02-24
 meta_img: /images/7-4.jpg
 img: /images/7-4.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/kot-kot-music-for-film-radio-2/
 ---
 

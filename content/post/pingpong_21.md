@@ -6,7 +6,7 @@ author: "LN / homey vempire"
 date: 2019-03-01
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-21-ln-homey-vempire/ 
 ---
 
