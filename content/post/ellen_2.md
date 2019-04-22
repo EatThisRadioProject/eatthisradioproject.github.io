@@ -6,7 +6,7 @@ author: "kaleidoskoop"
 date: 2019-04-15
 meta_img: /images/ellen_2.jpg
 img: /images/ellen_2.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/kaleidoskoop-home-remedy/ 
 ---
 

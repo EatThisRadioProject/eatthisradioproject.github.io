@@ -6,7 +6,7 @@ author: "Zully Adler"
 date: 2019-03-29
 meta_img: /images/zully.jpeg
 img: /images/zully.jpeg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/zully-adler-goaty-tapes/
 ---
 

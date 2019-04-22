@@ -6,7 +6,7 @@ author: "Carlos / LN"
 date: 2019-04-15
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-23-carlos-ln/ 
 ---
 

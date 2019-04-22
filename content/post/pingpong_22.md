@@ -3,10 +3,10 @@ draft: false
 type: post
 title: "pingpong #22"
 author: "LN / R. Dj Selby"
-date: 2019-03-30
+date: 2019-03-28
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-22-ln-r-dj-selby/ 
 ---
 
