@@ -6,12 +6,17 @@
     <description>Recent content on Eat This Radio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Mon, 27 May 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> 6a1ba118fd63c51cf1ca1949bf5b3bb80e378ffb
     
 	<atom:link href="http://eatthisradio.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>winding music</title>
       <link>http://eatthisradio.com/post/mh_1/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
@@ -22,6 +27,8 @@
     </item>
     
     <item>
+=======
+>>>>>>> 6a1ba118fd63c51cf1ca1949bf5b3bb80e378ffb
       <title>pingpong #24</title>
       <link>http://eatthisradio.com/post/pingpong_24/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
