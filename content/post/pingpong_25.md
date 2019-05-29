@@ -24,7 +24,7 @@ mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-25-rutger-zuydervel
 | <small>2</small> |   | **semuin**						<small>		nuigini					**</small>	|
 | <small>3</small> |   | **giuseppe ielasi**			<small>		even when the speak of space	*</small>   |
 | <small>4</small> |   | **islaya**			 			<small>		rukki					**</small>	|
-| <small>5</small> |   | **michael beharie and reddy rankin** <small>		so much trash		 	*</small>   |
+| <small>5</small> |   | **michael beharie and teddy rankin** <small>		so much trash		 	*</small>   |
 | <small>6</small> |   | **drinks**						<small>		real outside			**</small>	|
 | <small>7</small> |   | **mothers**			 		<small>		beauty routine		 	*</small>   |
 | <small>8</small> |   | **aldous harding**			 	<small>		party					**</small>|
