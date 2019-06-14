@@ -3,7 +3,7 @@ draft: false
 type: post
 title: "Your beat kicks back like death"
 author: Wouter van Veldhoven
-date: 2019-06-15
+date: 2019-06-14
 meta_img: /images/your_beat_kicks_back_like_death.jpg
 img: /images/your_beat_kicks_back_like_death.jpg
 size: 2
