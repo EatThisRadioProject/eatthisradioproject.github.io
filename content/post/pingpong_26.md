@@ -3,7 +3,7 @@ draft: false
 type: post
 title: "pingpong #26"
 author: "Sander / LN"
-date: 2019-06-14
+date: 2019-06-15
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
 size: 1
