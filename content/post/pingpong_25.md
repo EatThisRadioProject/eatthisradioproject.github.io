@@ -6,7 +6,7 @@ author: "Rutger Zuydervelt / LN"
 date: 2019-05-27
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-25-rutger-zuydervelt-ln/
 ---
 

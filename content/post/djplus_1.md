@@ -6,7 +6,7 @@ author: "DJ+"
 date: 2019-04-22
 meta_img: /images/djplus.jpg
 img: /images/djplus.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/dj-ambient-thoughts/
 ---
 

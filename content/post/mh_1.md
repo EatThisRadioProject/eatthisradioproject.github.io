@@ -6,7 +6,7 @@ author: "Michael Holland"
 date: 2019-05-27
 meta_img: /images/mh_1.jpg
 img: /images/mh_1.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/michael-holland-winding-music/
 ---
 

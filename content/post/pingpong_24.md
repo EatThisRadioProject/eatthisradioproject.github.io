@@ -6,7 +6,7 @@ author: "LN / Peter J. Brant"
 date: 2019-05-01
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-24-ln-peter-j-brant/ 
 ---
 
