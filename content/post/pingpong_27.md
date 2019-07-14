@@ -3,7 +3,7 @@ draft: false
 type: post
 title: "pingpong #27"
 author: "The World of Dust / LN"
-date: 2019-07-10
+date: 2019-07-11
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
 size: 2
