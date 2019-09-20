@@ -2,7 +2,7 @@
 draft: false
 type: post
 title: "Richard Scott: Spools dials and the sound of the future part1"
-author: Richard Scott
+author: "Richard Scott"
 date: 2019-09-17
 meta_img: /images/richard_3.jpg
 img: /images/richard_3.jpg
