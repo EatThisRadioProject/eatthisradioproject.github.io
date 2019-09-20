@@ -6,7 +6,7 @@ author: Ignatz
 date: 2018-05-21
 meta_img: /images/ignatz_1.jpg
 img: /images/ignatz_1.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/dance-with-the-demons/
 ---
 

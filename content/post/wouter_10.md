@@ -6,7 +6,7 @@ author: "Wouter van Veldhoven"
 date: 2018-11-14
 meta_img: /images/brass_winds_reeds_sqr.png
 img: /images/brass_winds_reeds_sqr.png
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/brassreedwind/
 ---
 

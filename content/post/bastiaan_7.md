@@ -6,7 +6,7 @@ author: "Mechanizedmind"
 date: 2018-08-27
 meta_img: /images/snow_full.jpg
 img: /images/snow_full.jpg
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/mechanizedmind-15ft-of-pure-white-snow/
 ---
 

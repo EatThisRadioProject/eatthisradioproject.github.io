@@ -6,7 +6,7 @@ author: "annie milward"
 date: 2018-09-09
 meta_img: /images/j_pop.jpg
 img: /images/j_pop.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/annie-milward-japanese-mix/
 ---
 

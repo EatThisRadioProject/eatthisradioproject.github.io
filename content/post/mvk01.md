@@ -6,7 +6,7 @@ author: "MVK"
 date: 2019-02-04
 meta_img: /images/mvk - la grande bouffe.jpg
 img: /images/mvk - la grande bouffe.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/mvk-la-grande-bouffe/
 ---
 
