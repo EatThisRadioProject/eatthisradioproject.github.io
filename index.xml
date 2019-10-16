@@ -6,12 +6,17 @@
     <description>Recent content on Eat This Radio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+<<<<<<< HEAD
     <lastBuildDate>Wed, 16 Oct 2019 00:00:00 +0000</lastBuildDate>
+=======
+    <lastBuildDate>Fri, 20 Sep 2019 00:00:00 +0000</lastBuildDate>
+>>>>>>> e96faa1ae377b403d295a2007aeae0e6f078940e
     
 	<atom:link href="http://eatthisradio.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>pingpong #30</title>
       <link>http://eatthisradio.com/post/pingpong_30/</link>
       <pubDate>Wed, 16 Oct 2019 00:00:00 +0000</pubDate>
@@ -34,6 +39,8 @@ this episode features contributions by Jana Sotzko* and LN**.
     </item>
     
     <item>
+=======
+>>>>>>> e96faa1ae377b403d295a2007aeae0e6f078940e
       <title>pingpong #29</title>
       <link>http://eatthisradio.com/post/pingpong_29/</link>
       <pubDate>Fri, 20 Sep 2019 00:00:00 +0000</pubDate>
