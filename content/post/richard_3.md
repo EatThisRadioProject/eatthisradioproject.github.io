@@ -6,7 +6,7 @@ author: "Richard Scott"
 date: 2019-09-17
 meta_img: /images/richard_3.jpg
 img: /images/richard_3.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/spools-dials-and-the-sound-of-the-future/
 ---
 

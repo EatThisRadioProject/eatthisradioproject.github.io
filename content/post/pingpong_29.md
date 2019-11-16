@@ -6,7 +6,7 @@ author: "Ignatz / LN"
 date: 2019-09-20
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 1
+size: 2
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-29-ignatz-ln/ 
 ---
 

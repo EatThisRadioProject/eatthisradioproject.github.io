@@ -6,7 +6,7 @@ author: "Jana / LN"
 date: 2019-10-16
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-30-jana-sotzko-ln/ 
 ---
 
