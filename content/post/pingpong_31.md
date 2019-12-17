@@ -6,7 +6,7 @@ author: "LN / Annelies Monseré"
 date: 2019-11-15
 meta_img: /images/pingpong.png
 img: /images/pingpong.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/pingpong-31-ln-annelies-monsere/ 
 ---
 

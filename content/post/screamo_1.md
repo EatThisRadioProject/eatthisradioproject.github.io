@@ -6,7 +6,7 @@ author: "mechanizedmind / kaleidoskoop"
 date: 2019-11-14
 meta_img: /images/screamo_1.png
 img: /images/screamo_1.png
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/aaargh-mechanizedmind-kaleidoskoop/ 
 ---
 

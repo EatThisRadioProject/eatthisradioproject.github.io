@@ -6,7 +6,7 @@ author: "Mechanizedmind"
 date: 2019-10-15
 meta_img: /images/newold.jpg
 img: /images/newold.jpg
-size: 2
+size: 1
 mixcloud_url: https://www.mixcloud.com/eatthisradio/mechanizedmind-new-and-old/
 ---
 
